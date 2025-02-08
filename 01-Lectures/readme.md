@@ -33,5 +33,5 @@ Regarding the weeks;
 - [ ] [10. Week - 08.12.2022](https://arsivonline.yildiz.edu.tr/Recordings/2022-2023/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5111%20-%201/BLM5111%20-%201_8-12-2022_13-00_8-12-2022_15-50_4f88ce11-b14f-44c7-a4f8-555e51e1bafb.MP4)
 - [ ] [11. Week - 15.12.2022](https://arsivonline.yildiz.edu.tr/Recordings/2022-2023/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5111%20-%201/BLM5111%20-%201_15-12-2022_13-00_15-12-2022_15-50_4f18b2ef-9f13-4669-8a64-d36840523668.MP4)
 - [ ] 12. Week - 22.12.2022 - Vize Haftası - Ders Yok
-- [ ] 13. Week - 29.12.2022 - Ders Yok
-- [ ] 14. Week - 05.01.2022 - Ders Yok
+- [ ] 13. Week - 29.12.2022 - Konular Bitti - Ders Yok
+- [ ] 14. Week - 05.01.2022 - Vize Telafi Haftası - Ders Yok
