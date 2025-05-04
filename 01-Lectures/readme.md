@@ -12,8 +12,8 @@ Regarding the weeks;
 - [x] [5. Week - 3 November 2022 Thursday](05_03_11_2022.md)
 - [x] [6. Week - 10 November 2022 Thursday](06_10_11_2022.md)
 - [x] [7. Week - 17 November 2022 Thursday](07_17_11_2022.md)
-- [ ] [8. Week - 24 November 2022 Thursday](08_24_11_2022.md)
-- [ ] [9. Week - 1 December 2022 Thursday](09_01_12_2022.md)
+- [x] [8. Week - 24 November 2022 Thursday](08_24_11_2022.md)
+- [x] [9. Week - 1 December 2022 Thursday](09_01_12_2022.md)
 - [ ] [10. Week - 8 December 2022 Thursday](10_08_12_2022.md)
 - [ ] [11. Week - 15 December 2022 Thursday](11_15_12_2022.md)
 - [ ] [12. Week - 22 December 2022 Thursday](12_22_12_2022.md)
@@ -28,8 +28,8 @@ Regarding the weeks;
 - [x] [5. Week - 03.11.2022](https://arsivonline.yildiz.edu.tr/Recordings/2022-2023/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5111%20-%201/BLM5111%20-%201_3-11-2022_13-00_3-11-2022_15-50_9e24af56-dc2d-427b-a2fd-8f23e1dccbc1.MP4)
 - [x] [6. Week - 10.11.2022](https://arsivonline.yildiz.edu.tr/Recordings/2022-2023/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5111%20-%201/BLM5111%20-%201_10-11-2022_13-00_10-11-2022_15-50_e57119c2-26d3-4161-96e7-adf43126b521.MP4)
 - [x] [7. Week - 17.11.2022](https://arsivonline.yildiz.edu.tr/Recordings/2022-2023/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5111%20-%201/BLM5111%20-%201_17-11-2022_13-00_17-11-2022_15-50_8e7ed90e-459f-479a-8abd-1c6d77ef36d4.MP4)
-- [ ] 8. Week - 24.11.2022 - Vize Haftası - Ders Yok
-- [ ] [9. Week - 01.12.2022](https://arsivonline.yildiz.edu.tr/Recordings/2022-2023/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5111%20-%201/BLM5111%20-%201_1-12-2022_13-00_1-12-2022_15-50_48f933c2-7ca7-44c1-943e-096d8fe5c614.MP4)
+- [x] 8. Week - 24.11.2022 - Vize Haftası - Ders Yok
+- [x] [9. Week - 01.12.2022](https://arsivonline.yildiz.edu.tr/Recordings/2022-2023/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5111%20-%201/BLM5111%20-%201_1-12-2022_13-00_1-12-2022_15-50_48f933c2-7ca7-44c1-943e-096d8fe5c614.MP4)
 - [ ] [10. Week - 08.12.2022](https://arsivonline.yildiz.edu.tr/Recordings/2022-2023/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5111%20-%201/BLM5111%20-%201_8-12-2022_13-00_8-12-2022_15-50_4f88ce11-b14f-44c7-a4f8-555e51e1bafb.MP4)
 - [ ] [11. Week - 15.12.2022](https://arsivonline.yildiz.edu.tr/Recordings/2022-2023/G%C3%9CZ%20D%C3%96NEM%C4%B0/BLM5111%20-%201/BLM5111%20-%201_15-12-2022_13-00_15-12-2022_15-50_4f18b2ef-9f13-4669-8a64-d36840523668.MP4)
 - [ ] 12. Week - 22.12.2022 - Vize Haftası - Ders Yok
